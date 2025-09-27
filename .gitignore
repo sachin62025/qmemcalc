@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.vscode/
+.idea/
+~/.cache/huggingface/
+*.hf
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+build/
+dist/
+*.egg-info/
