@@ -11,7 +11,6 @@ Features:
 - Gradient checkpointing factor
 - Optional LoRA fraction instead of r
 - Optional batch size suggestion for given GPU VRAM
-- CLI interface for quick terminal usage
 """
 
 import argparse
