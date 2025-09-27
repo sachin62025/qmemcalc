@@ -1,6 +1,14 @@
-# qmemcalc
+## qmemcalc
 
-Quantized Memory Calculator for Transformers (QLoRA / LoRA / full fine-tuning)
+**Quantized Memory Calculator for Transformers (QLoRA / LoRA / Full Fine-Tuning)**
+
+Estimate GPU memory requirements for training or fine-tuning transformer models with ease. Supports multiple precision types, quantization, and LoRA configurations.
+
+[![PyPI Version](https://img.shields.io/pypi/v/qmemcalc)](https://pypi.org/project/qmemcalc/)
+[![Python Version](https://img.shields.io/pypi/pyversions/qmemcalc)](https://pypi.org/project/qmemcalc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+---
 
 ## Features
 
@@ -32,4 +40,18 @@ result = estimate_memory(
 )
 
 print(result)
+```
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests.
+
+```
+git clone https://github.com/sachin62025/qmemcalc.git
+cd qmemcalc
+pip install -e .
+```
+
+```
+
 ```
