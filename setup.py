@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="qmemcalc",
-    version="0.1.0",
+    version="0.1.1",
     author="Sachin",
     author_email="sachin18449kumar@gmail.com",
     description="GPU Memory Estimator for QLoRA / LoRA / Transformers",
